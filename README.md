@@ -2,7 +2,7 @@
 
 
 # 📊 Amazon E-Commerce Analytics Dashboard
- ![Image Alt](image_url)
+ ![Image Alt](https://github.com/Code-amar/Amazon-Ecommerce-Analysis---Power-BI/blob/2942b8b58bc6dd4f5a212583bd2995bc61ff774a/Screenshot%202026-02-28%20024806.png)
 
 ## 🚀 Project Overview
 
