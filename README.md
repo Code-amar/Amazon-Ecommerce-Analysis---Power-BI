@@ -2,7 +2,7 @@
 
 
 # 📊 Amazon E-Commerce Analytics Dashboard
-
+ ![Image Alt](image_url)
 
 ## 🚀 Project Overview
 
