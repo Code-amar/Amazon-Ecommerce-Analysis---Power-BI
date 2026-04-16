@@ -204,6 +204,7 @@ A complete real-world analytics project combining **SQL + Power BI + DAX**, show
 
 👩‍💻 Author
 Amar
+
 📧 [email ID: amarnitkkr814@gmail.com]
 💼 [LinkedIn Profile URL: https://www.linkedin.com/in/amar0001/]
 
