@@ -202,9 +202,7 @@ This project demonstrates how raw e-commerce data can be transformed into a **de
 
 A complete real-world analytics project combining **SQL + Power BI + DAX**, showcasing both **technical depth and business thinking**, aligned with stakeholder-driven decision making.
 
-👩‍💻 Author
-Amar
-
+👩‍💻 Author : Amar
 📧 [email ID: amarnitkkr814@gmail.com]
 💼 [LinkedIn Profile URL: https://www.linkedin.com/in/amar0001/]
 
